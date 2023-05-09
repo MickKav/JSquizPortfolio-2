@@ -62,7 +62,7 @@ body {
 }
 
 #next-btn {
-    display: block;
+    display: none;
     background: #001e4d;
     color: #fff;
     font-weight: 500;
